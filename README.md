@@ -4,7 +4,7 @@
 Developed a dynamic and user-friendly To-Do List application that enables users to add, mark as completed, and delete tasks.
 The application persists user data using the browser's Local Storage, ensuring that tasks are saved and available even after the browser is closed or refreshed.
 
-<H1>Key Features:</H1>H1>
+<H2>Key Features:</H2>
 
 1.Task Addition: Users can input new tasks which are then added to a task list. If the input field is empty, the application alerts the user to enter a task.
 
@@ -16,7 +16,7 @@ The application persists user data using the browser's Local Storage, ensuring t
 
 5.Responsive Design: The application is designed to be responsive and works well on various device sizes.
 
-<H1>CONCLUSION:</H1>
+<h3>CONCLUSION:</h3>
 The To-Do List application enhances user productivity by providing a simple and efficient way to manage daily tasks. Its use of Local Storage for data persistence ensures a seamless user experience across sessions. This project demonstrates proficiency in front-end web development, including HTML, CSS, and JavaScript, and showcases the ability to create interactive and functional web applications.
 
 
