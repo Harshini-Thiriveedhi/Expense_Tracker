@@ -4,6 +4,8 @@
 Developed a dynamic and user-friendly To-Do List application that enables users to add, mark as completed, and delete tasks.
 The application persists user data using the browser's Local Storage, ensuring that tasks are saved and available even after the browser is closed or refreshed.
 
+<h1>Tech stack:</h1><p>HTML,CSS,JAVASCRIPT</p>
+
 <H2>Key Features:</H2>
 
 1.Task Addition: Users can input new tasks which are then added to a task list. If the input field is empty, the application alerts the user to enter a task.
